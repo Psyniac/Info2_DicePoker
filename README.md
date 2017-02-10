@@ -17,7 +17,7 @@ Vor jeder Wurfrunde müssen die Spieler wetten. Es wird drei Mal geworfen und al
 Sobald man kein Wettgeld mehr hat oder aussteigt hat man verloren.
 
 
--- TED 13.12.16
+--- TED 13.12.16
 
 - Zweispielerbetrieb (Namen können vergeben werden)
 
@@ -25,11 +25,11 @@ Sobald man kein Wettgeld mehr hat oder aussteigt hat man verloren.
 
 - Grafisch 3D (Tisch auf dem die Würfel liegen)
 
---- Kameraschwenk bei Spielerwechsel
+- Kameraschwenk bei Spielerwechsel
 
---- Anzeige des Wettgeldes auf dem Tisch (Vor den Spielern und im Pott)
+- Anzeige des Wettgeldes auf dem Tisch (Vor den Spielern und im Pott)
 
---- Spielführung durch Knöpfe auf dem Tisch
+- Spielführung durch Knöpfe auf dem Tisch
 
 Optional:
 3D Animationen der Würfel
