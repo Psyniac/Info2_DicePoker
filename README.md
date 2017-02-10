@@ -32,6 +32,4 @@ Sobald man kein Wettgeld mehr hat oder aussteigt hat man verloren.
 - Spielführung durch Knöpfe auf dem Tisch
 
 Optional:
-3D Animationen der Würfel
-Themes (Tischmaterial, Hintergrund, Würfelfarbe)
-Avatar für zweiten Spieler
+3D Animationen der Würfel; Themes (Tischmaterial, Hintergrund, Würfelfarbe); Avatar für zweiten Spieler
