@@ -544,7 +544,7 @@ public class DicePoker : MonoBehaviour
 			player1_hand = "Five of a Kind ";
 		}
 
-		// PLAYER 2 LEO IST DOOF
+		// PLAYER 2
 
 		if (highest_count_p2 <= 1) {
 			player2_hand = "Street ";
