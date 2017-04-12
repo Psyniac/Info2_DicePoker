@@ -25,7 +25,7 @@ public class COINS_UPDATE : MonoBehaviour {
 
 	// Update is called once per frame
 	void Update () {
-		if(player_id == 1){
+		if(player_id == 2){
 			if(current_coins!=dicePoker.player_1_coins){
 				current_coins = dicePoker.player_1_coins;
 
